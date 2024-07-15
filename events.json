@@ -1,0 +1,88 @@
+{
+    "guilds": {
+        "917352705356341260": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        },
+        "1125822372281319575": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        },
+        "1199317274121736192": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        },
+        "1135816153336402000": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        }
+    }
+}

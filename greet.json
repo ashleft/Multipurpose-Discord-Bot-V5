@@ -1,0 +1,30 @@
+{
+    "guilds": {
+        "1088171869611495434": {
+            "autodel": null,
+            "channel": [],
+            "color": null,
+            "embed": false,
+            "footer": "",
+            "image": "",
+            "message": "<<user.mention>> Welcome To <<server.name>>",
+            "ping": false,
+            "title": "",
+            "thumbnail": ""
+        },
+        "1199317274121736192": {
+            "autodel": null,
+            "channel": [
+                "1253658204244541472"
+            ],
+            "color": null,
+            "embed": true,
+            "footer": "",
+            "image": "",
+            "message": "Welcome <<user.mention>> to the <<server.name>> server.\n\nUser Created: <<user.created_at>>\nUser Joined: <<user.joined_at>>\n\nWe now have a total of <<server.member_count>> members.",
+            "ping": false,
+            "title": "",
+            "thumbnail": ""
+        }
+    }
+}

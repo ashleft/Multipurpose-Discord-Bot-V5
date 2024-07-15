@@ -1,0 +1,17 @@
+{
+    "OWNER_IDS": [
+        166692371981926400
+    ],
+    "TOKEN": "MTExNzA3MzA1MzI1NjUyNzk1Mg.Gf0yYy.h7ufG7GSBWAvf5CywZracZgf4yiwHJWNQcRWOk",
+    "BotName": "robi",
+    "serverLink": "https://discord.gg/encoders",
+    "wh_cl": "https://discord.com/api/webhooks/1253663874478116946/mprRoSpHYfbUSWMYRmcxtwr6a1tETOygy5v9I2CfdKg3YHeY6GKB3DOxVjvBN9XnwMnY",
+    "wh_bl": "https://discord.com/api/webhooks/1253663874478116946/mprRoSpHYfbUSWMYRmcxtwr6a1tETOygy5v9I2CfdKg3YHeY6GKB3DOxVjvBN9XnwMnY",
+    "statusText": ".help",
+    "EXTENSIONS": [
+        "cogs.events"
+    ],
+    "np": [
+        166692371981926400
+    ]
+}

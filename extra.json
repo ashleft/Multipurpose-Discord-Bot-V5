@@ -1,0 +1,52 @@
+{
+    "guilds": {
+        "1075480726151110656": {
+            "owners": [],
+            "antiSpam": false,
+            "antiLink": false,
+            "antiinvites": false,
+            "punishment": "mute",
+            "whitelisted": [],
+            "channel": null,
+            "mods": [],
+            "modrole": null,
+            "ignorechannels": []
+        },
+        "1125822372281319575": {
+            "owners": [],
+            "antiSpam": false,
+            "antiLink": false,
+            "antiinvites": false,
+            "punishment": "mute",
+            "whitelisted": [],
+            "channel": null,
+            "mods": [],
+            "modrole": null,
+            "ignorechannels": []
+        },
+        "1199317274121736192": {
+            "owners": [],
+            "antiSpam": true,
+            "antiLink": true,
+            "antiinvites": false,
+            "punishment": "none",
+            "whitelisted": [],
+            "channel": null,
+            "mods": [],
+            "modrole": null,
+            "ignorechannels": []
+        },
+        "1135816153336402000": {
+            "owners": [],
+            "antiSpam": false,
+            "antiLink": false,
+            "antiinvites": false,
+            "punishment": "mute",
+            "whitelisted": [],
+            "channel": null,
+            "mods": [],
+            "modrole": null,
+            "ignorechannels": []
+        }
+    }
+}

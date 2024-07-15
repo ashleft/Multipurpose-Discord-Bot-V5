@@ -1,0 +1,28 @@
+{
+    "guilds": {
+        "1093507568170708992": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1125822372281319575": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1199317274121736192": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        }
+    }
+}
