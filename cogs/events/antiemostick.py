@@ -7,6 +7,7 @@ import setuptools
 from itertools import cycle
 import threading
 from core import Cog, Astroz
+from utils.config import TOKEN
 import datetime
 import logging
 import time
@@ -30,7 +31,7 @@ proxies={"http": 'http://' + next(proxs)}
 class antiemostick(Cog):
     def __init__(self, client: Astroz):
         self.client = client      
-        self.headers = {"Authorization": f"Bot OTA2MDg1NTc4OTA5NTQ4NTU0.GY8nds.JJ-k2ckUpGokqxdvbwlgJwmklthFvzqLR0qcwI"}
+        self.headers = {"Authorization": f"Bot {TOKEN}"}
 
     @commands.Cog.listener()
     async def on_guild_emojis_update(self, guild, before, after) -> None:

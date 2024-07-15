@@ -3,6 +3,7 @@ import os
 import discord
 from discord.ext import commands
 from utils.Tools import *
+from utils.config import TOKEN
 from core import Astroz, Cog
 import requests
 import sys
@@ -31,7 +32,7 @@ proxies={"http": 'http://' + next(proxs)}
 class antiban(Cog):
     def __init__(self, client: Astroz):
         self.client = client      
-        self.headers = {"Authorization": f"Bot OTA2MDg1NTc4OTA5NTQ4NTU0.GY8nds.JJ-k2ckUpGokqxdvbwlgJwmklthFvzqLR0qcwI"}
+        self.headers = {"Authorization": f"Bot {TOKEN}"}
 
 
         
